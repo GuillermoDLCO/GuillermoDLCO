@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/guillermodelacruzonton/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/GuillermoDLCO"><img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<br /><br />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuillermoDLCO)](https://github.com/GuillermoDLCO/github-readme-stats)
 
 <!--
 **GuillermoDLCO/GuillermoDLCO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
