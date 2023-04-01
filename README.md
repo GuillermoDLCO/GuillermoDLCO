@@ -1,11 +1,7 @@
 <h1>Hi there 👋, I'm Guillermo</h1>
 <h3>A Software Developer and Digital Nomad around Europe and Asia</h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=guillermodlco&label=Profile%20views&color=0e75b6&style=flat"
-        alt="guillermodlco" /> </p>
-
-- 💬 Ask me about **Flutter, Android, iOS, Blockchain**
+- 💬 Ask me about **Java, Android, iOS, Blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -76,6 +72,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guillermodlco&show_icons=true&locale=en"
         alt="guillermodlco" />
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=guillermodlco&show_icons=true&locale=en&layout=compact"
-        alt="guillermodlco" /></p>
