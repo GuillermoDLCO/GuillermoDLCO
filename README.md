@@ -70,5 +70,5 @@
             height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guillermodlco&show_icons=true&locale=en"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guillermodlco&show_icons=true&locale=en&count_private=true"
         alt="guillermodlco" />
