@@ -69,6 +69,3 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40"
             height="40" /> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guillermodlco&show_icons=true&locale=en&count_private=true"
-        alt="guillermodlco" />
